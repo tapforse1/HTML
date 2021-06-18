@@ -6,6 +6,11 @@ body
     margin: 0;
 }
 
+.main_head {
+    position: sticky;
+    top: 0;
+}
+
 .logo {
     float: left;
     margin-top: 0;
